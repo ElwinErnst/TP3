@@ -1,0 +1,56 @@
+C:\Users\Ian Hein\Desktop\New folder\TP3\TP3\obj\Debug\TP3.csprojAssemblyReference.cache
+C:\Users\Ian Hein\Desktop\New folder\TP3\TP3\obj\Debug\TP3.csproj.CoreCompileInputs.cache
+C:\Users\Ian Hein\Desktop\New folder\TP3\TP3\bin\Debug\TP3.exe.config
+C:\Users\Ian Hein\Desktop\New folder\TP3\TP3\bin\Debug\TP3.exe
+C:\Users\Ian Hein\Desktop\New folder\TP3\TP3\bin\Debug\TP3.pdb
+C:\Users\Ian Hein\Desktop\New folder\TP3\TP3\bin\Debug\FirstLibrary.dll
+C:\Users\Ian Hein\Desktop\New folder\TP3\TP3\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ian Hein\Desktop\New folder\TP3\TP3\bin\Debug\FirstLibrary.pdb
+C:\Users\Ian Hein\Desktop\New folder\TP3\TP3\obj\Debug\TP3.csproj.CopyComplete
+C:\Users\Ian Hein\Desktop\New folder\TP3\TP3\obj\Debug\TP3.exe
+C:\Users\Ian Hein\Desktop\New folder\TP3\TP3\obj\Debug\TP3.pdb
+C:\Users\MI\Desktop\TP3\TP3\bin\Debug\TP3.exe.config
+C:\Users\MI\Desktop\TP3\TP3\bin\Debug\TP3.exe
+C:\Users\MI\Desktop\TP3\TP3\bin\Debug\TP3.pdb
+C:\Users\MI\Desktop\TP3\TP3\bin\Debug\FirstLibrary.pdb
+C:\Users\MI\Desktop\TP3\TP3\obj\Debug\TP3.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\TP3\TP3\obj\Debug\TP3.csproj.CoreCompileInputs.cache
+C:\Users\MI\Desktop\TP3\TP3\obj\Debug\TP3.csproj.CopyComplete
+C:\Users\MI\Desktop\TP3\TP3\obj\Debug\TP3.exe
+C:\Users\MI\Desktop\TP3\TP3\obj\Debug\TP3.pdb
+C:\Users\Ian Hein\Desktop\TP3\TP3\bin\Debug\TP3.exe.config
+C:\Users\Ian Hein\Desktop\TP3\TP3\bin\Debug\TP3.exe
+C:\Users\Ian Hein\Desktop\TP3\TP3\bin\Debug\TP3.pdb
+C:\Users\Ian Hein\Desktop\TP3\TP3\bin\Debug\FirstLibrary.pdb
+C:\Users\Ian Hein\Desktop\TP3\TP3\obj\Debug\TP3.csprojAssemblyReference.cache
+C:\Users\Ian Hein\Desktop\TP3\TP3\obj\Debug\TP3.csproj.CoreCompileInputs.cache
+C:\Users\Ian Hein\Desktop\TP3\TP3\obj\Debug\TP3.csproj.CopyComplete
+C:\Users\Ian Hein\Desktop\TP3\TP3\obj\Debug\TP3.exe
+C:\Users\Ian Hein\Desktop\TP3\TP3\obj\Debug\TP3.pdb
+C:\Users\MI\Desktop\TP3 Error 6 am\TP3\obj\Debug\TP3.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\TP3 Error 6 am\TP3\obj\Debug\TP3.csproj.CoreCompileInputs.cache
+C:\Users\MI\Desktop\TP3 Error 6 am\TP3\obj\Debug\TP3.exe
+C:\Users\MI\Desktop\TP3 Error 6 am\TP3\obj\Debug\TP3.pdb
+C:\Users\MI\Desktop\TP3 Error 6 am\TP3\bin\Debug\TP3.exe.config
+C:\Users\MI\Desktop\TP3 Error 6 am\TP3\bin\Debug\TP3.exe
+C:\Users\MI\Desktop\TP3 Error 6 am\TP3\bin\Debug\TP3.pdb
+C:\Users\MI\Desktop\TP3 Error 6 am\TP3\bin\Debug\FirstLibrary.pdb
+C:\Users\MI\Desktop\TP3 Error 6 am\TP3\obj\Debug\TP3.csproj.CopyComplete
+C:\Users\Ian Hein\Desktop\TP3 Error 6 am\TP3\bin\Debug\TP3.exe.config
+C:\Users\Ian Hein\Desktop\TP3 Error 6 am\TP3\bin\Debug\TP3.exe
+C:\Users\Ian Hein\Desktop\TP3 Error 6 am\TP3\bin\Debug\TP3.pdb
+C:\Users\Ian Hein\Desktop\TP3 Error 6 am\TP3\bin\Debug\FirstLibrary.pdb
+C:\Users\Ian Hein\Desktop\TP3 Error 6 am\TP3\obj\Debug\TP3.csprojAssemblyReference.cache
+C:\Users\Ian Hein\Desktop\TP3 Error 6 am\TP3\obj\Debug\TP3.csproj.CoreCompileInputs.cache
+C:\Users\Ian Hein\Desktop\TP3 Error 6 am\TP3\obj\Debug\TP3.csproj.CopyComplete
+C:\Users\Ian Hein\Desktop\TP3 Error 6 am\TP3\obj\Debug\TP3.exe
+C:\Users\Ian Hein\Desktop\TP3 Error 6 am\TP3\obj\Debug\TP3.pdb
+C:\Users\MI\Desktop\TP3 Completo\TP3\bin\Debug\TP3.exe.config
+C:\Users\MI\Desktop\TP3 Completo\TP3\bin\Debug\TP3.exe
+C:\Users\MI\Desktop\TP3 Completo\TP3\bin\Debug\TP3.pdb
+C:\Users\MI\Desktop\TP3 Completo\TP3\bin\Debug\FirstLibrary.pdb
+C:\Users\MI\Desktop\TP3 Completo\TP3\obj\Debug\TP3.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\TP3 Completo\TP3\obj\Debug\TP3.csproj.CoreCompileInputs.cache
+C:\Users\MI\Desktop\TP3 Completo\TP3\obj\Debug\TP3.csproj.CopyComplete
+C:\Users\MI\Desktop\TP3 Completo\TP3\obj\Debug\TP3.exe
+C:\Users\MI\Desktop\TP3 Completo\TP3\obj\Debug\TP3.pdb
